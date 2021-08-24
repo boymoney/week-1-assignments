@@ -1,0 +1,43 @@
+#container{
+    margin-left: 5%;
+    margin-top: 5%;
+
+
+}
+#search{
+    width: 120px;
+height: 21px;
+text-align: center;
+border: 1px solid #3BACAD;
+padding: 0px;
+border-radius: 20px;
+color: #3BACAD;
+background-color: #F5F5F5;
+}
+
+#plus{
+    width: 28px;
+    font-weight: 75px;
+    border-radius: 50%;
+    background-color: #00D1B2;
+    text-align: center;
+    padding: auto;
+    color: white;
+    margin-top: 10px;
+    font-size: x-large;
+    padding: 5px;
+}
+
+#account{
+    width: 150px;
+    background-color: #2B78E4;
+    text-align: center;
+    color: #E4EEFB;
+    justify-content: center;
+    box-shadow: 5px 4px 1px black;
+    border: 2px solid black;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+
